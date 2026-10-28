@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **innovative projects that solve real-world problems and create meaningful impact.**
 
-- 🤝 I’m looking for help with advanced WordPress development, scalable web applications, and modern web design and development.
+- 🤝 I’m looking for help with **advanced WordPress development, scalable web applications, and modern web design and development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devredwan03](https://github.com/devredwan03)
 
