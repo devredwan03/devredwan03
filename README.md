@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm G.M Redwanur Rahman</h1>
+<img src="https://i.ibb.co.com/pvfrSvLv/Modern-Web-Developer-Portfolio-Banner.png" alt="Modern Web Developer Portfolio Banner" border="0">
+
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about turning ideas into digital reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devredwan03&label=Profile%20views&color=0e75b6&style=flat" alt="devredwan03" /> </p>
