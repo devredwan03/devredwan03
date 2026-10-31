@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devredwan03&label=Profile%20views&color=0e75b6&style=flat" alt="devredwan03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devredwan03" alt="devredwan03" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 <p align="left"> <a href="https://twitter.com/devredwan03" target="blank"></a> </p>
 
