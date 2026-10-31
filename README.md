@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/pvfrSvLv/Modern-Web-Developer-Portfolio-Banner.png" alt="Modern Web Designer WordPress Developer Portfolio Banner" border="0">
+<!-- <img src="https://i.ibb.co.com/pvfrSvLv/Modern-Web-Developer-Portfolio-Banner.png" alt="Modern Web Designer WordPress Developer Portfolio Banner" border="0"> -->
 
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about turning ideas into digital reality.</h3>
 
